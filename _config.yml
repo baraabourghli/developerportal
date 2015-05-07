@@ -11,8 +11,8 @@ exclude:
   - Gemfile.lock
   - vendor
 markdown: kramdown
-webservices_baseurl: 'https://api.govwizely.com'
-apikey: 'Jnl2JctPOiUL9x7HVFR2m8Sr'
+webservices_baseurl: 'https://api.trade.gov'
+apikey: '_aZaWWLd8jSl8Ha4S6Xv7OMI'
 
 left_nav_available_apis:
 - text: Market Research Library
